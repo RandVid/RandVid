@@ -1,15 +1,22 @@
 # 👋 Hi, I'm Ilya!
 
 ## 🚀 About Me
-I'm a proud alumnus of Vilnius Lyceum. I have a passion for programming and have experience in several programming languages.
+I'm a proud alumnus of Vilnius Lyceum and a JetBrains Scholarship student of class 2027 at the SDT program at Constructor University, Bremen.
 
 ## 💻 Skills
-- 🐍 Python
+- 🐍 Python (incl. Django)
+- 🎮 C# (Unity)
 - ☕ Java
-- 🎮 C#
+
+## 📖 Education
+- 🎓 SDT Bachelor at Constructor University (2024-2027)
+- 🏫 Vilnius Lyceum IBDP (2022-2024)
+
+## 🌱 I’m currently learning
+- 🔵 C/C++
 
 ## 📫 Get in Touch
-You can reach me via email at [ilya.plisko1@gmail.com].
+You can reach me via email at [mcflymartin221@gmail.com](mailto:mcflymartin221@gmail.com).
 
 ---
 

@@ -4,9 +4,16 @@
 I'm a proud alumnus of Vilnius Lyceum and a JetBrains Scholarship student of class 2027 at the SDT program at Constructor University, Bremen.
 
 ## 💻 Skills
-- 🐍 Python (incl. Django)
-- 🎮 C# (Unity)
+- 🐍 Python
+  - Numpy
+  - Pandas
+  - Matplotlib
+  - Django
+- 🎮 C#
+  - Unity
+  - .Net
 - ☕ Java
+- 🐀 C/C++
 
 ## 📖 Education
 - 🎓 SDT Bachelor at Constructor University (2024-2027)
@@ -15,9 +22,9 @@ I'm a proud alumnus of Vilnius Lyceum and a JetBrains Scholarship student of cla
 ## 🛠 Projects
 - **[🍽️Lyceum Canteen Menu](https://github.com/RandVid/canteen_menu)**: Vilnius Lyceum menu web application made using Django framework for IB CS Internal Assessment.
 - **[🥚The Egg Game](https://github.com/RandVid/the-egg-game)**: A simple game made as the final project for programming courses using the Unity game engine.
-
+  
 ## 🌱 I’m currently learning
-- 🔵 C/C++
+- 🔵 Kotlin
 
 ## 📫 Get in Touch
 You can reach me via email at [mcflymartin221@gmail.com](mailto:mcflymartin221@gmail.com).

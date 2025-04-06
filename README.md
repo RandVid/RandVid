@@ -17,6 +17,7 @@ I'm a proud alumnus of Vilnius Lyceum and a JetBrains Scholarship student of cla
 
 ## 🌱 I’m currently learning
 - 🔵 Kotlin
+- 🧪 Flask
 
 ## 📖 Education
 - 🎓 SDT Bachelor at Constructor University (2024-2027)

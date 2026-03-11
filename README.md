@@ -65,38 +65,6 @@ The system learns user workflows and automates repetitive tasks.
 
 ---
 
-## Selected Repositories
-
-- **kmp-production-sample-swift-export**  
-  Kotlin Multiplatform RSS reader demonstrating real production architecture.
-
-- **swift-java-kotlin**  
-  Experiments with interoperability between Swift, Java, and Kotlin.
-
-- **BreakpointCounter**  
-  Kotlin tooling utility.
-
----
-
-## Tech Stack
-
-Languages
-
-- Kotlin
-- Swift
-- Java
-- Python
-
-Technologies
-
-- Kotlin Multiplatform
-- Kotlin/Native
-- Swift Export
-- Gradle
-- JVM / JNI
-
----
-
 ## Education
 
 **Constructor University**  

@@ -1,6 +1,6 @@
 # Ilya Plisko
 
-Software Developer @ JetBrains  
+Software Developer Intern @ JetBrains  
 BSc Software, Data & Technology @ Constructor University (JetBrains Scholarship)
 
 I work on Kotlin tooling and cross-language interoperability, with a focus on Kotlin Multiplatform and native integrations.

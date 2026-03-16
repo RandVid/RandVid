@@ -21,6 +21,7 @@ Currently exploring:
 - Cross-language interoperability
 - Systems programming
 - Developer tooling
+- Compilers
 
 ---
 

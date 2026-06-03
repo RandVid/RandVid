@@ -10,7 +10,7 @@ I work on Kotlin tooling and cross-language interoperability, with a focus on Ko
 ## About Me
 
 - Software Developer Intern at **JetBrains**
-- Working on **Kotlin QA and Kotlin/Native**
+- Currently Working on **Swift-to-Kotlin Interop**
 - Experience with **Swift Export**, testing Kotlin ↔ Swift interoperability
 - Interested in **language tooling, compilers, and cross-platform systems**
 - JetBrains Student Hackathon Winner
@@ -27,7 +27,13 @@ Currently exploring:
 
 ## Projects
 
-### Swift Export (JetBrains)
+### [Swift-to-Kotlin Interop (PoC for JetBrains)](https://github.com/RandVid/swift-java-kotlin)
+
+Proof of Concept for the Kotlin/Native feature that allows the usage of Swift API in Kotlin modules
+
+---
+
+### [Swift Export (JetBrains)](https://github.com/JetBrains/kotlin/tree/master/native/swift)
 
 QA for the experimental Kotlin/Native feature that exports Kotlin APIs into idiomatic Swift modules.
 
